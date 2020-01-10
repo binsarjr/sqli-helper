@@ -1,0 +1,5 @@
+certifi==2019.11.2
+chardet==3.0.4
+idna==2.8
+prettytable==0.7.2
+requests==2.22.0
